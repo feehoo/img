@@ -1,0 +1,19 @@
+{
+  "Regions": {
+    "981": {
+      "RegionID": 981,
+      "RegionCode": "tbj",
+      "RegionName": "TencentCloud Beijing",
+      "Nodes": [
+        {
+          "Name": "981a",
+          "RegionID": 981,
+          "DERPPort": 121,
+          "HostName": "81.70.104.112",
+          "IPv4": "81.70.104.112",
+          "InsecureForTests": true
+        }
+      ]
+    }
+  }
+}
